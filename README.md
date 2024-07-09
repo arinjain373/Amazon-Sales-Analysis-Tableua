@@ -5,4 +5,4 @@ https://public.tableau.com/app/profile/arin.jain/viz/Book2_17205140149330/Dashbo
 
 
 
-![Dashboard](Amazon Dashboard.png)
+![Dashboard](Amazon_Dashboard.png)
