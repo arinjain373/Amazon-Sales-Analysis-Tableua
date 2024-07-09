@@ -5,4 +5,3 @@ https://public.tableau.com/app/profile/arin.jain/viz/Book2_17205140149330/Dashbo
 
 
 
-![plot](Amazon Dashboard.png)
