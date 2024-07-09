@@ -5,4 +5,4 @@ https://public.tableau.com/app/profile/arin.jain/viz/Book2_17205140149330/Dashbo
 
 
 
-![alt text]([http://url/to/img.png](https://github.com/arinjain373/Amazon-Sales-Analysis-Tableua/blob/main/Amazon%20Dashboard.png))
+![plot](Amazon Dashboard.png)
